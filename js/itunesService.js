@@ -32,8 +32,8 @@ angular.module('itunes').service('itunesService', function($http, $q){
         });
     };
 
-
-
+//response.data.caption.text
+// response.data.images.standard_resolution;
 
     // Go to the next step in the README (Tie in your controller). You will come back to these instructions shortly.
     //
